@@ -58,7 +58,8 @@ import static com.app.gmv3.utilities.Constant.PUSH_PIN;
 
 public class ActivityPerfilCliente extends AppCompatActivity{
     TextView txt_perfil_name_cliente,txt_perfil_disponible,txt_perfil_saldo,txt_perfil_limite;
-    TextView txt_perfil_noVencido,txt_perfil_d30,txt_perfil_d60,txt_perfil_d90,txt_perfil_d120,txt_perfil_m120;
+    TextView txt_perfil_noVencido,txt_perfil_d30,txt_perfil_d60,txt_perfil_d90,txt_perfil_d120,txt_perfil_m120,
+             txt_perfil_d45,txt_perfil_d150,txt_perfil_m150;
     TextView txt_tele,txt_condicion_pago;
     String code_cliente;
 
@@ -102,10 +103,13 @@ public class ActivityPerfilCliente extends AppCompatActivity{
 
         txt_perfil_noVencido    = findViewById(R.id.id_perfil_noVencido);
         txt_perfil_d30          = findViewById(R.id.id_perfil_d30);
+        txt_perfil_d45          = findViewById(R.id.id_perfil_d45);
         txt_perfil_d60          = findViewById(R.id.id_perfil_d60);
         txt_perfil_d90          = findViewById(R.id.id_perfil_d90);
         txt_perfil_d120         = findViewById(R.id.id_perfil_d120);
-        txt_perfil_m120         = findViewById(R.id.id_perfil_m120);
+        txt_perfil_d150         = findViewById(R.id.id_perfil_d150);
+        txt_perfil_m150         =findViewById(R.id.id_perfil_m150);
+        //txt_perfil_m120         = findViewById(R.id.id_perfil_m120);
 
         ImgVerication           = findViewById(R.id.id_btn_verificacion);
 
@@ -269,10 +273,13 @@ public class ActivityPerfilCliente extends AppCompatActivity{
                     lyt_empty_history.setVisibility(View.GONE);
                     txt_perfil_noVencido.setText(("C$ ").concat(items.get(0).getNoVencidos()));
                     txt_perfil_d30.setText(("C$ ").concat(items.get(0).getDias30()));
+                    txt_perfil_d45.setText(("C$ ").concat(items.get(0).getDias45()));
                     txt_perfil_d60.setText(("C$ ").concat(items.get(0).getDias60()));
                     txt_perfil_d90.setText(("C$ ").concat(items.get(0).getDias90()));
                     txt_perfil_d120.setText(("C$ ").concat(items.get(0).getDias120()));
-                    txt_perfil_m120.setText(("C$ ").concat(items.get(0).getMas120()));
+                    txt_perfil_d150.setText(("C$").concat(items.get(0).getDias150()));
+                    txt_perfil_m150.setText(("C$").concat(items.get(0).getMas150()));
+                    //txt_perfil_m120.setText(("C$ ").concat(items.get(0).getMas120()));
 
 
                     clearData();

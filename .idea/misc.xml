@@ -5,6 +5,28 @@
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/drawable-hdpi/ic_clients.xml" value="0.2890625" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/drawable-xhdpi/ic_create.xml" value="0.2890625" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/drawable-xhdpi/ic_menu.xml" value="0.2890625" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/drawable-xxxhdpi/btn_bonificado.xml" value="0.2890625" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/drawable-xxxhdpi/ic_person.xml" value="0.2890625" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/drawable/ic_check_circle.xml" value="0.2890625" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/activity_perfil_cliente.xml" value="0.22" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/main.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_add_cliente.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_factura.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_image.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_perfil_cliente.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_resumen_pedido.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_setting.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_stat.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/xml/setting_preferences.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

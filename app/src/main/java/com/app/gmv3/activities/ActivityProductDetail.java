@@ -456,7 +456,6 @@ public class ActivityProductDetail extends AppCompatActivity {
         }
 
 
-
         LayoutInflater layoutInflaterAndroid = LayoutInflater.from(context);
 
         View mView = layoutInflaterAndroid.inflate(R.layout.input_dialog_calculadora, null);
