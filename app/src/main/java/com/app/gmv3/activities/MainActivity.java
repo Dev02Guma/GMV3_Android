@@ -97,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.nav_category:
                         viewPager.setCurrentItem(1);
                         return true;
-                    case R.id.nav_promo:
+                   case R.id.nav_promo:
                         viewPager.setCurrentItem(2);
                         return true;
                     case R.id.nav_profile:

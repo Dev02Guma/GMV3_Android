@@ -98,6 +98,7 @@ public class ActivityInteligenciaMercado extends AppCompatActivity implements Ad
     String date = dateFormat.format(Calendar.getInstance().getTime());
     TextView txt_lbl_order_by;
     String OrderBY = "Desc";
+    private String empresa = "2";
     RelativeLayout ryt_empty_history;
     Bitmap  decodedktp;
     byte[]  imageByteArrayktp;
@@ -316,6 +317,8 @@ public class ActivityInteligenciaMercado extends AppCompatActivity implements Ad
         ((TextView) dialog.findViewById(R.id.lbl_date)).setText(Fecha);
 
 
+
+
         ((EditText) dialog.findViewById(R.id.et_post)).addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
@@ -439,6 +442,7 @@ public class ActivityInteligenciaMercado extends AppCompatActivity implements Ad
                     }
                 }) {
             @Override
+
             protected Map<String, String> getParams() {
                 Map<String, String> params = new HashMap<String, String>();
                 params.put("sndFecha", date);
@@ -447,6 +451,7 @@ public class ActivityInteligenciaMercado extends AppCompatActivity implements Ad
                 params.put("sndNombre", category_name);
                 params.put("snd_comentario", st_comment);
                 params.put("snd_image", Foto_a_enviar);
+                params.put("sndEmpresa", empresa);
                 return params;
             }
 

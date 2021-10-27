@@ -206,8 +206,6 @@ public class ActivityReportes extends AppCompatActivity {
                 final List<Reporte_Factura> items = new Gson().fromJson(ServerResponse.toString(), new TypeToken<List<Reporte_Factura>>() {
                 }.getType());
 
-
-
                final Handler handler = new Handler();
                 handler.postDelayed(new Runnable() {
                     @Override

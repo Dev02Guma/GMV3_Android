@@ -48,6 +48,7 @@ public class Constant {
     public static final String USER_EMAIL = "Correo";
     public static final String SUCCESS = "success";
     public static final String MSG = "msg";
+    public static final String COMPANY = "2"; // Revisar
 
     public static int permission_Read_data = 789;
 

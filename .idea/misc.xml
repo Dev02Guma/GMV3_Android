@@ -14,15 +14,40 @@
         <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/drawable-xxxhdpi/btn_bonificado.xml" value="0.2890625" />
         <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/drawable-xxxhdpi/ic_person.xml" value="0.2890625" />
         <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/drawable/ic_check_circle.xml" value="0.2890625" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/activity_cart.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/activity_checkout_clientes.xml" value="0.67" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/activity_comentarios.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/activity_estadisticas.xml" value="0.33" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/activity_inteligencia_mercado.xml" value="0.26992753623188404" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/activity_location.xml" value="0.26992753623188404" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/activity_main.xml" value="0.26992753623188404" />
         <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/activity_perfil_cliente.xml" value="0.22" />
-        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/main.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/activity_rpt_venta.xml" value="0.21" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/activity_search_toolbar_light.xml" value="0.26992753623188404" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/activity_shopping_cart_simple.xml" value="0.2653985507246377" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/activity_splash.xml" value="0.2653985507246377" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/content_location.xml" value="0.2653985507246377" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/dialog_about.xml" value="0.2653985507246377" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/dialog_add_comment.xml" value="0.25" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/dialog_add_review.xml" value="0.2653985507246377" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/dialog_info.xml" value="0.2653985507246377" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/fragment_profile.xml" value="0.2653985507246377" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/layout/toolbar.xml" value="0.2653985507246377" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/main.xml" value="0.5" />
         <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_add_cliente.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_cart.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_factura.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_history.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_image.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_list.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_perfil_cliente.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_resumen_pedido.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_setting.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/menu_stat.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/navigation.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/search.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/search_cliente.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/menu/search_no_facturado.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/Xochilt.Piche/Documents/GMV3_Android/app/src/main/res/xml/setting_preferences.xml" value="0.27291666666666664" />
       </map>
     </option>

@@ -110,9 +110,9 @@ public class ActivityEstadisticas extends AppCompatActivity {
         getSupportActionBar().setTitle("MIS ESTADISTICAS");
         Calendar rightNow = Calendar.getInstance();
 
+        mAnno = String.valueOf(rightNow.get(Calendar.YEAR));
         mRuta = sharedPref.getYourName();
         mMes = String.valueOf(rightNow.get(Calendar.MONTH) + 1);
-        mAnno = String.valueOf(rightNow.get(Calendar.YEAR));
 
 
         semi_circulo = findViewById(R.id.id_semi_circulo);
@@ -404,20 +404,16 @@ public class ActivityEstadisticas extends AppCompatActivity {
                     ((TextView) findViewById(R.id.id_perfil_noVencido)).setText(("C$ ").concat(items.get(0).getNoVencidos()));
                     ((TextView) findViewById(R.id.id_saldo_vencido)).setText(("C$ ").concat(items.get(0).getVencido()));
                     ((TextView) findViewById(R.id.id_perfil_d30)).setText(("C$ ").concat(items.get(0).getDias30()));
+                    ((TextView) findViewById(R.id.id_perfil_d45)).setText(("C$ ").concat(items.get(0).getDias45()));
                     ((TextView) findViewById(R.id.id_perfil_d60)).setText(("C$ ").concat(items.get(0).getDias60()));
                     ((TextView) findViewById(R.id.id_perfil_d90)).setText(("C$ ").concat(items.get(0).getDias90()));
                     ((TextView) findViewById(R.id.id_perfil_d120)).setText(("C$ ").concat(items.get(0).getDias120()));
-                    ((TextView) findViewById(R.id.id_perfil_m120)).setText(("C$ ").concat(items.get(0).getMas120()));
-
-
+                    ((TextView) findViewById(R.id.id_perfil_d150)).setText(("C$ ").concat(items.get(0).getDias150()));
+                    ((TextView) findViewById(R.id.id_perfil_m150)).setText(("C$ ").concat(items.get(0).getMas150()));
 
                     List<String> data = Arrays.asList(items.get(0).getFACT_PEND().split(","));
-
                     ((TextView) findViewById(R.id.id_coun_facturas_vencidas)).setText(("FACTURAS (").concat( data.size() + ")"));
-
                     for (int i = 0; i < data.size(); i++) {
-
-
                         List<String> row = Arrays.asList(data.get(i).split(":"));
 
                         FacturasMoras tmp = new FacturasMoras();

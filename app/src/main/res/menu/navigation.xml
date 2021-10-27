@@ -13,7 +13,8 @@
     <item
         android:id="@+id/nav_promo"
         android:icon="@drawable/ic_campaign"
-        android:title="@string/title_nav_promo" />
+        android:title="@string/title_nav_promo"
+        android:visible="false" />
 
     <item
         android:id="@+id/nav_profile"
