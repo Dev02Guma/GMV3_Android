@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "267914032173",
-    "firebase_url": "https://gmv3-2020.firebaseio.com",
-    "project_id": "gmv3-2020",
-    "storage_bucket": "gmv3-2020.appspot.com"
+    "project_number": "90568378247",
+    "project_id": "gmv3-gp",
+    "storage_bucket": "gmv3-gp.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:267914032173:android:0777ad4379fa02a6b4b4a4",
+        "mobilesdk_app_id": "1:90568378247:android:b8a9496c28ce17b04e7522",
         "android_client_info": {
-          "package_name": "com.app.unimark.gmv3"
+          "package_name": "com.app.gumapharma.gmv3"
         }
       },
       "oauth_client": [
         {
-          "client_id": "267914032173-qeon3poe4nhimp6tagbndn4vl5t73rc7.apps.googleusercontent.com",
+          "client_id": "90568378247-2n7ri374nid5396sr3ce9v89s6slb6m2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDxoR3AJhk6kt5ykrhOYr7SZGDL6BycwV0"
+          "current_key": "AIzaSyC-6xmvkkgz9b5qfeaCgnvASyt8Cuc-qB8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "267914032173-qeon3poe4nhimp6tagbndn4vl5t73rc7.apps.googleusercontent.com",
+              "client_id": "90568378247-2n7ri374nid5396sr3ce9v89s6slb6m2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
