@@ -44,9 +44,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
+                    android:gravity="center"
                     android:layout_marginBottom="@dimen/spacing_xlarge"
                     android:layout_marginTop="@dimen/spacing_middle"
-                    android:text="GMV 3.0"
+                    android:text="GESTOR DE VENTAS GUMAPHARMA"
                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
                     android:textColor="@color/colorPrimary"
                     android:textStyle="bold" />
@@ -142,7 +143,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:clickable="true"
-                        android:text="2020"
+                        android:text="2021"
                         android:textAppearance="@style/Base.TextAppearance.AppCompat.Subhead"
                         android:textColor="@color/colorPrimary"
                         android:textStyle="bold" />
