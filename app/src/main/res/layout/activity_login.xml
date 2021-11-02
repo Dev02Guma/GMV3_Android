@@ -47,7 +47,7 @@
                     android:gravity="center"
                     android:layout_marginBottom="@dimen/spacing_xlarge"
                     android:layout_marginTop="@dimen/spacing_middle"
-                    android:text="GESTOR DE VENTAS GUMAPHARMA"
+                    android:text="GESTOR DE VENTAS"
                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
                     android:textColor="@color/colorPrimary"
                     android:textStyle="bold" />
